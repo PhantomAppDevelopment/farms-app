@@ -1,6 +1,6 @@
-# Farms App 1.0.
+# Farms App 1.0.0
 
-Farms App is a mobile application developed with Starling Framework and FeathersUI. It showcases how to use Geolocation services and APIs.
+Farms App is a mobile application developed with Starling Framework and FeathersUI. It showcases how to use Geolocation services and APIs to bring a complete and feature rich user experience.
 
 It uses the following APIs and technologies:
 
