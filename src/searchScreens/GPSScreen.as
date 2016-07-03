@@ -90,7 +90,7 @@ package searchScreens
 				var renderer:DefaultListItemRenderer = new DefaultListItemRenderer();
 				renderer.labelFunction = function(item:Object):String
 				{
-					return "<b>" + item.MarketName + "</b>" + "\n" + item.State + "\n" + calculateDistance(latitude, longitude, item.y, item.x);
+					return "<b>" + item.MarketName + "</b>" + "\n" + item.street + "\n" + calculateDistance(latitude, longitude, item.y, item.x);
 				}
 				
 				renderer.accessorySourceFunction = function():String
